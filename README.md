@@ -7,7 +7,7 @@ Proyecto para el segundo trimestre de el modulo de Programación creado por **Ge
 
 #Función
 Consiste en un menú CRUD realizado en java.
-La aplicación principalmente permite [**Crear**](Modules/Users/Model/BLL/BLL_User/CRUD/Functions_create.java), [**Leer**](Modules/Users/Model/BLL/BLL_User/CRUD/Functions_read.java), [**Actualizar**](Modules/Users/Model/BLL/BLL_User/CRUD/Functions_update.java) y [**Borrar**](Modules/Users/Model/BLL/BLL_User/CRUD/Functions_delete.java) tres tipos de usuarios: 
+La aplicación principalmente permite [**Crear**](src/exer3_1/Modules/Users/Model/BLL/BLL_User/CRUD/Functions_create.java), [**Leer**](src/exer3_1/Modules/Users/Model/BLL/BLL_User/CRUD/Functions_read.java), [**Actualizar**](src/exer3_1/Modules/Users/Model/BLL/BLL_User/CRUD/Functions_update.java) y [**Borrar**](src/exer3_1/Modules/Users/Model/BLL/BLL_User/CRUD/Functions_delete.java) tres tipos de usuarios: 
 
 1.  Administradores
 2.  Clientes 
