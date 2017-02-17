@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <exer3__1.Modules.Users.Model.Classes.Client>
+    <id>14178519P</id>
+    <name>felipe</name>
+    <address>Sense direccio</address>
+    <gender>Male</gender>
+    <birthdate>
+      <day>6</day>
+      <month>11</month>
+      <year>1943</year>
+      <date>6/11/1943</date>
+      <data>
+        <null/>
+        <null/>
+        <null/>
+      </data>
+    </birthdate>
+    <email>felipe@gmail.com</email>
+    <avatar>Avatar2</avatar>
+    <username>sara</username>
+    <passwd>maria11,</passwd>
+    <points>200</points>
+    <jdate>
+      <day>18</day>
+      <month>7</month>
+      <year>2013</year>
+      <date>18/7/2013</date>
+      <data>
+        <null/>
+        <null/>
+        <null/>
+      </data>
+    </jdate>
+    <purchases>240</purchases>
+    <discounts>30%</discounts>
+  </exer3__1.Modules.Users.Model.Classes.Client>
+</list>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <exer3__1.Modules.Users.Model.Classes.NormalUser>
+    <id>44745860G</id>
+    <name>josep</name>
+    <address></address>
+    <gender>Other</gender>
+    <birthdate>
+      <day>24</day>
+      <month>9</month>
+      <year>1945</year>
+      <date>24/9/1945</date>
+      <data>
+        <null/>
+        <null/>
+        <null/>
+      </data>
+    </birthdate>
+    <comments>108</comments>
+    <karma>Medium</karma>
+  </exer3__1.Modules.Users.Model.Classes.NormalUser>
+</list>
