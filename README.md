@@ -23,7 +23,7 @@ Cada uno tiene sus propios atributos y algunos de ellos se recalculan automatica
 
 **2) Leer**
  1. La opción de leer usuarios permite ver los datos de todos los usuarios o de un usuario en concreto.
- 2. Muestra el avatar de el usuario con un objeto de la clase ImagenIcon (3 avatares para elegir en la aplicación).
+ 2. Muestra el avatar de el usuario con un objeto de la clase ImageIcon (3 avatares para elegir en la aplicación).
  3. Recalcula el salario de el Administrador y los puntos de el Cliente y el Usuario normal.
 
 **3) Actualizar**
